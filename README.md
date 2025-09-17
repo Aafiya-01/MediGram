@@ -1,9 +1,12 @@
 # Cancer Cell Classifier
 
-
+### [App Link](https://medigram-webapp-a.streamlit.app/)
 
 - [Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data). 
 - The dataset can be found in folder `data`
+- Demo pic:
+<img width="1917" height="868" alt="Screenshot 2025-09-17 152242" src="https://github.com/user-attachments/assets/88fe36d9-5539-4ca6-9116-abf259f9d444" />
+
 
 
 ## Model Building 
@@ -45,7 +48,7 @@ It imports the necessary dependencies, including Streamlit for creating the web 
 
 Note: This block of CSS code in `assets/style.css` defines some custom styles that are used in the Streamlit application for breast cancer prediction.
 
-### [App Link](https://cancercellclassifier.streamlit.app/)
+
 
 
 
