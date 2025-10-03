@@ -2,7 +2,8 @@
 
 ### [App Link](https://medigram-webapp-a.streamlit.app/)
 
-- [Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data). 
+- [Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data).
+- work distribution: Aafiya Choudhary- Machine Learning Workflow, Ashish Anand- Web Application Development
 - The dataset can be found in folder `data`
 - Demo pic:
 <img width="1917" height="868" alt="Screenshot 2025-09-17 152242" src="https://github.com/user-attachments/assets/88fe36d9-5539-4ca6-9116-abf259f9d444" />
